@@ -1,6 +1,6 @@
 # amp-url-php
 
-Accelerated Mobile Pages (AMP) URL API PHP library.  
+[Accelerated Mobile Pages (AMP) URL API](https://developers.google.com/amp/cache/reference/acceleratedmobilepageurl/rest/) PHP library.  
 It is necessary to enable API on [Google Cloud Platform](https://cloud.google.com/) and obtain API key.
 
 ## Use
