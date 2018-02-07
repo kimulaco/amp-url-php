@@ -29,7 +29,7 @@ $cdnAmpUrl = $amp_url->toCdnAmpUrl('https://example.com/01.html');
 
 ### get($urls)
 
-- $url `string` - Target URL.
+- $urls `array|string` - Target URL.
 
 ```php
 $amp_url = new AmpUrl(GOOGLE_API_KEY);
